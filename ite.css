@@ -1,0 +1,16 @@
+﻿body
+{
+
+   background-color:lightblue;
+}
+div
+ {
+
+ border: 0.5px solid blue;
+
+ width:400px; 
+ padding:20px 40px;
+ margin:100px auto auto auto;
+ background-color:pink;
+
+ }
